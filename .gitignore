@@ -1,0 +1,27 @@
+# Files to be ignored
+.DS_Store
+.idea
+docs/doc-website
+npm-debug.log
+yarn-error.log
+thumb.db
+*_bak.js
+VERSION.txt
+docs/doc-website
+
+# Directories to be ignored
+.tmp
+bower_components
+node_modules
+report
+target
+build
+dist
+.dat
+.nyc_output
+
+# Personal env files to be ignored
+env-config/personal/**
+.vscode
+*.swo
+*.swp
